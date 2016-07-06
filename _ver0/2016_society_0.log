@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.3.23)  4 JUL 2016 16:53
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.3.23)  6 JUL 2016 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -178,10 +178,10 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
 Here is how much of TeX's memory you used:
  1564 strings out of 493723
  18101 string characters out of 6150790
- 119853 words of memory out of 5000000
+ 119866 words of memory out of 5000000
  5113 multiletter control sequences out of 15000+600000
  15660 words of font info for 64 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  32i,10n,26p,17824b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 2016_society_0.dvi (1 page, 10364 bytes).
+Output written on 2016_society_0.dvi (1 page, 10376 bytes).

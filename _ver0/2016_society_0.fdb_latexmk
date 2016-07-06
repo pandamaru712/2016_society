@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1467618829 "2016_society_0.dvi" "2016_society_0.pdf" "2016_society_0" 1467618829
-  "2016_society_0.dvi" 1467618828 10364 50de3c1671d6adbd6853d2c375b0ec9b "latex"
+["dvipdf"] 1467787334 "2016_society_0.dvi" "2016_society_0.pdf" "2016_society_0" 1467787334
+  "2016_society_0.dvi" 1467787334 10376 4affa4fb6e6d4477846fdfda183b99a6 "latex"
   (generated)
   "2016_society_0.pdf"
-["latex"] 1467618828 "2016_society_0.tex" "2016_society_0.dvi" "2016_society_0" 1467618829
+["latex"] 1467787334 "2016_society_0.tex" "2016_society_0.dvi" "2016_society_0" 1467787334
   "../graph/thr_fair.eps" 1467232845 104052 4132248b724a7191ff798399b44e0449 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/ptex/standard/goth10.tfm" 1452675315 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -54,10 +54,10 @@
   "/usr/local/texlive/2015/texmf-var/web2c/eptex/platex.fmt" 1458716788 4009208 378326550fe83143883a4edd2071c54d ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
   "/usr/local/texlive/texmf-local/web2c/texmf.cnf" 1459349354 163 bcd92715ea3ad457d0505c43da664dcb ""
-  "2016_society_0.aux" 1467618828 818 7ff6ae6e5d8827decdaffccc456080e3 ""
-  "2016_society_0.tex" 1467618813 7705 6e98812ff485dd451d5ffc69a1bbb4cc ""
+  "2016_society_0.aux" 1467787334 818 7ff6ae6e5d8827decdaffccc456080e3 ""
+  "2016_society_0.tex" 1467787332 7726 e7d7c2c0dea940deb412286ea3f32b97 ""
   "ieicejsp.cls" 1452058510 25531 8688778fb6490cbbec875a3b12501d81 ""
   (generated)
-  "2016_society_0.log"
-  "2016_society_0.aux"
   "2016_society_0.dvi"
+  "2016_society_0.aux"
+  "2016_society_0.log"
